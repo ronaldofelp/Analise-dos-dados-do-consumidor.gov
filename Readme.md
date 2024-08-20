@@ -2,7 +2,7 @@
 
 <center>
 
-<img  src='../analise_consumidor.gov/utilities/img/consumidor-gov.jpg' alt='Banner com o logo  do  Consumidor.Gov'>
+<img  src='utilities/img/consumidor-gov.jpg' alt='Banner com o logo  do  Consumidor.Gov'>
   
 </center>
 
